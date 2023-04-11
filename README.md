@@ -18,3 +18,10 @@ My name is Cesar
 
 ### Link to a page
 [Google] (https://www.google.de/))
+
+### Code
+``` js
+for(let i=0; i<9; i++){
+  console.log("i value is: ", i")
+}
+```
